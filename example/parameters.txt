@@ -1,0 +1,2 @@
+catalog	plugins/SynerClust/example/data_catalog.txt
+tree	plugins/SynerClust/example/tree.nwk
